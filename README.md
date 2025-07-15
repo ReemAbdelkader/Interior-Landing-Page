@@ -12,6 +12,14 @@ A modern, responsive interior design website built with HTML, CSS, and Tailwind 
 - **Newsletter Subscription**: Email subscription form for design insights
 - **Social Media Integration**: Links to various social platforms
 
+## Live Demo
+
+Check out the live demo of the project in action! 🚀
+
+👉 [**Try the Live Demo**](#)
+
+> **Note**: Ensure you have a stable internet connection for the best experience.
+
 ## 🛠️ Technologies Used
 
 - **HTML5**: Semantic markup structure
